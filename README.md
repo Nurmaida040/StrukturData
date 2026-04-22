@@ -1,3 +1,4 @@
+```
 Nama        : Nurmaida Intan Permadani
 NRP         : 5025251040
 Mata Kuliah : Struktur Data
@@ -26,7 +27,7 @@ Implementasi Queue
     2. Linked List(Dynamic Queue)
         a. ukuran fleksibel
         b. lebih efisien untuk operasi dinamis
-
+```
 Implementasi menggunakan Array 
 ```bash 
 #include <iostream>
